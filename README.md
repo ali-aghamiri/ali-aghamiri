@@ -12,6 +12,7 @@ M.Sc. researcher in Computer Engineering (Computer Architecture) at the Universi
 
 ## Selected work
 
+- [Distributed ML study labs](https://github.com/ali-aghamiri/distributed-ml-study-labs) — four independent study labs covering MPI/FedAvg, CUDA/DDP, Spark, and torchrun/Accelerate; local CPU checks documented.
 - [RISC-V verification course project](https://github.com/ali-aghamiri/riscv-verification-course-project) — RV32I reference model, SystemVerilog scoreboard, and reproducible tests.
 - [Cryptocurrency coursework](https://github.com/ali-aghamiri/cryptocurrency-coursework) — Python cryptography, Bitcoin address and script exercises, tests, and written work.
 - [Internet Measurement coursework](https://github.com/ali-aghamiri/internet-measurement-coursework) — network monitoring reports and a reconstructed Elasticsearch lab.
