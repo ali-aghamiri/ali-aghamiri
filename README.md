@@ -13,7 +13,11 @@ M.Sc. researcher in Computer Engineering (Computer Architecture) at the Universi
 ## Selected work
 
 - [RISC-V verification course project](https://github.com/ali-aghamiri/riscv-verification-course-project) — RV32I reference model, SystemVerilog scoreboard, and reproducible tests.
-- [Internet Measurement coursework](https://github.com/ali-aghamiri/internet-measurement-coursework) - network monitoring, threat detection, Linux profiling, and five individual homework reports.
+- [Cryptocurrency coursework](https://github.com/ali-aghamiri/cryptocurrency-coursework) — Python cryptography, Bitcoin address and script exercises, tests, and written work.
+- [Internet Measurement coursework](https://github.com/ali-aghamiri/internet-measurement-coursework) — network monitoring reports and a reconstructed Elasticsearch lab.
+- [Performance Evaluation coursework](https://github.com/ali-aghamiri/performance-coursework) — queue simulation with an M/M/1 statistical check and submitted reports.
+- [Cyber-Physical Systems coursework](https://github.com/ali-aghamiri/cyber-physical-systems-coursework) — original paper reviews and project analysis.
+- [Graduate course notes](https://github.com/ali-aghamiri/graduate-course-notes) — original notes and research assignments across five other courses.
 - [YTLive dataset](https://github.com/ghalandar/YTLive) — collaborative dataset of real-world YouTube live-streaming sessions.
 - [IOTA transaction prioritization preprint](https://arxiv.org/abs/2501.16763) — research on confirmation speed in DAG-based ledgers.
 
