@@ -13,6 +13,7 @@ M.Sc. researcher in Computer Engineering (Computer Architecture) at the Universi
 ## Selected work
 
 - [RISC-V verification course project](https://github.com/ali-aghamiri/riscv-verification-course-project) — RV32I reference model, SystemVerilog scoreboard, and reproducible tests.
+- [Internet Measurement coursework](https://github.com/ali-aghamiri/internet-measurement-coursework) - network monitoring, threat detection, Linux profiling, and five individual homework reports.
 - [YTLive dataset](https://github.com/ghalandar/YTLive) — collaborative dataset of real-world YouTube live-streaming sessions.
 - [IOTA transaction prioritization preprint](https://arxiv.org/abs/2501.16763) — research on confirmation speed in DAG-based ledgers.
 
