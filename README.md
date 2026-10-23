@@ -16,6 +16,7 @@ M.Sc. researcher in Computer Engineering (Computer Architecture) at the Universi
 - [Cryptocurrency coursework](https://github.com/ali-aghamiri/cryptocurrency-coursework) — Python cryptography, Bitcoin address and script exercises, tests, and written work.
 - [Internet Measurement coursework](https://github.com/ali-aghamiri/internet-measurement-coursework) — network monitoring reports and a reconstructed Elasticsearch lab.
 - [Performance Evaluation coursework](https://github.com/ali-aghamiri/performance-coursework) — queue simulation with an M/M/1 statistical check and submitted reports.
+- [Distributed Systems concurrency lab](https://github.com/ali-aghamiri/distributed-systems-concurrency-lab) — channel-based TCP key–value server in Go with concurrent-client tests.
 - [Cyber-Physical Systems coursework](https://github.com/ali-aghamiri/cyber-physical-systems-coursework) — original paper reviews and project analysis.
 - [Graduate course notes](https://github.com/ali-aghamiri/graduate-course-notes) — original notes and research assignments across five other courses.
 - [YTLive dataset](https://github.com/ghalandar/YTLive) — collaborative dataset of real-world YouTube live-streaming sessions.
